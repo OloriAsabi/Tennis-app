@@ -1,0 +1,7 @@
+{
+  "name": "Tennis App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
